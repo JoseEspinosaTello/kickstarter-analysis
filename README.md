@@ -3,6 +3,8 @@
 ## Overview of Project
 
 ### Purpose
+	
+Our client Louise has recently completed the fundraising campaign for her play ‘Fever’, and would like to know how well her fundraising campaign fared compared to other fundraising campaigns for theater events between 2009 and 2017. This project will examine the relation between fundraising campaigns based on launch dates and their fundraising goals. The analysis will allow Louise to determine how successful her campaign was and allow he to make future changes to maximize the success of future fundraising campaigns.
 
 ## Analysis and Challenges
 
