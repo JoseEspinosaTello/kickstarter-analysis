@@ -12,6 +12,8 @@ Our client Louise has recently completed the fundraising campaign for her play â
 
 To properly analyze the outcomes based on launch data we created a pivot chart. This pivot chart filters the data by category, which is set to theater as Louiseâ€™s play falls under the theater category and it is important that we analyze a relevant category. The chart displays the total count of successful, failed, and canceled fundraising campaigns by the months of the total years. To visualize the data, we selected a line graph as it would allow us to easily see and follow the trends of campaigns per month.
 
+![Theater_Outcomes_vs_Launch_Pivot_Chart](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/Theater_Outcomes_vs_Launch_Pivot_Chart.png?raw=true)
+
 ![Theater_Outcomes_vs_Launch](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
@@ -24,7 +26,7 @@ The outcomes based on goals was analyzed by counting and summing the number of s
 
 A challenge that was encountered during the outcomes by launch date was the percentages of success, failed, and canceled campaigns. The current data allows us to see the totals, however, we are working with incomplete data as total amount of successful campaigns does not mean a certain month was more successful than the other. To assist with the analysis, I added columns representing the percentage of successful, failed, and canceled campaigns. For example. August contains a higher total of successful campaigns compared to October; however, October has a higher success percentage, making it a favorable month to launch a campaign.  
 
-![Outcomes_vs_Goals](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/Outcomes_vs_Goals.png?raw=true)
+![Theater_Outcomes_vs_Launch_Pivot_Percentages](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/Theater_Outcomes_vs_Launch_Pivot_Percentages.png?raw=true)
 
 ## Results
 
