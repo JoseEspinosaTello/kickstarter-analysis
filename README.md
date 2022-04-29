@@ -20,6 +20,8 @@ To properly analyze the outcomes based on launch data we created a pivot chart. 
 
 The outcomes based on goals was analyzed by counting and summing the number of successful, failed, and canceled plays based on the goal range they fall under. We used play as the category as we wanted to compare Louise’s play fever to the other plays in the dataset. After gathering the total counts, we determined the percentage of successful, failed, and canceled plays based on the same goal ranges. Once all the data was gathered, we used a line chart as it will allow us to easily visualize the increase and decrease of successful, failed, and canceled percentage rates per their goal range.
 
+![outcomes_vs_Goals_Chart](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/outcomes_vs_Goals_Chart.png?raw=true)
+
 ![Outcomes_vs_Goals](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
