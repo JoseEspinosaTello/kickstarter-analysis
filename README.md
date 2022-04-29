@@ -39,7 +39,7 @@ Analysis of the line cart shows us that the success totals, and failure totals b
 
 ### What can you conclude about the Outcomes based on Goals?
 
-Analysis of the Outcomes based on Goals line graph tells us that campaigns with a goal of $19,999 or lower, and campaigns with a goal between $30,000 to $49,999 were the most successful as the campaigns all equaled or surpassed their fail rate. As campaigns began to ask for more money, the lower their success rates dropped. Campaigns with Goal ranges between $20,000 to $34,999, and campaigns with a range of $45,000 or higher had a fail rate equal to 55% or higher. The only example of successful campaigns with a high goal range are those between $30,000 to $49,999 as they had and average success rate of 67%. However, these goal ranges had a combined total of 9 campaigns making the possibility of success higher with fewer successful campaigns. As a result, these ranges could have outliers skewing the percentages. In conclusion the best option for Louise is to set a goal between $1,000 to $4,999 as this range accounts for 51% of the total fundraising campaigns and has a success rate of 73%.
+Analysis of the Outcomes based on Goals line graph tells us that campaigns with a goal of $19,999 or lower, and campaigns with a goal between $30,000 to $44,999 were the most successful as the campaigns all equaled or surpassed their fail rate. As campaigns began to ask for more money, the lower their success rates dropped. Campaigns with Goal ranges between $20,000 to $34,999, and campaigns with a range of $45,000 or higher had a fail rate equal to 55% or higher. The only example of successful campaigns with a high goal range are those between $30,000 to $44,999 as they had and average success rate of 67%. However, these goal ranges had a combined total of 9 campaigns making the possibility of success higher with fewer successful campaigns. As a result, these ranges could have outliers skewing the percentages. In conclusion the best option for Louise is to set a goal between $1,000 to $4,999 as this range accounts for 51% of the total fundraising campaigns and has a success rate of 73%.
 
 ### What are some limitations of this dataset?
 
@@ -54,3 +54,7 @@ Analysis of the Outcomes based on Goals line graph tells us that campaigns with 
 - Unaccounted factors can affect potential pledges. Personal likes and dislikes, generous offers, and holidays are all examples of unaccounted major factors when determining if a pledger would like to commit to the pledge. 
 
 ### What are some other possible tables and/or graphs that we could create?
+
+To eliminate the cultural differences, countries can be filtered and only include the U.S., as Louise’s ‘Fever’ is based in the U.S. A useful chart in this situation would be one that covers descriptive statistics of the pledges based on their ‘Successful’ status. These will allow us to determine if there are any outliers in the pledges and help us better determine if the outcomes based on goal are affected by these outliers.
+
+
