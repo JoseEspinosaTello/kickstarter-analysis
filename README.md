@@ -33,15 +33,15 @@ A challenge that was encountered during the outcomes by launch date was the fact
 
 ## Results
 
-# What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 Analysis of the line cart shows us that the success totals, and failure totals between launch months follow very similar trends. The most successful launch months in total amount are May, June, and July. In comparison May, June, and July also had among the highest total failed campaigns. Overall, all 12 months had a higher total of successful launches compared to failed launches. December stands out as it has the lowest number of successful campaigns and an almost even number of failed campaigns. Based on the analysis one can conclude that the best months to launch a campaign would be between April and August, with May being the top choice. May contains the highest success rate and the months following May begin a downward trend as the number of successful campaigns while still high, steadily drops. Two conclusions can be made about the best and worst months to start a campaign, one can conclude that the worst month to launch a campaign would be the biggest Holiday month of all, December, as it has the lowest success totals and an almost equal total of failures compared to it successful campaigns. Louise’s play ‘Fever’ originally launched its fundraising campaign in June. While June has the second highest success rate Louise’s play did not reach its goal. Another conclusion to be made is that launching her fundraising campaign in May could have returned favorable results. 
 
-# What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 
 Analysis of the Outcomes based on Goals line graph tells us that campaigns with a goal of $19,999 or lower, and campaigns with a goal between $30,000 to $49,999 were the most successful as the campaigns all equaled or surpassed their fail rate. As campaigns began to ask for more money, the lower their success rates dropped. Campaigns with Goal ranges between $20,000 to $34,999, and campaigns with a range of $45,000 or higher had a fail rate equal to 55% or higher. The only example of successful campaigns with a high goal range are those between $30,000 to $49,999 as they had and average success rate of 67%. However, these goal ranges had a combined total of 9 campaigns making the possibility of success higher with fewer successful campaigns. As a result, these ranges could have outliers skewing the percentages. In conclusion the best option for Louise is to set a goal between $1,000 to $4,999 as this range accounts for 51% of the total fundraising campaigns and has a success rate of 73%.
 
-# What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 
 Limitations of the dataset:
 
@@ -53,4 +53,4 @@ Limitations of the dataset:
 
 - Unaccounted factors can affect potential pledges. Personal likes and dislikes, generous offers, and holidays are all examples of unaccounted major factors when determining if a pledger would like to commit to the pledge. 
 
-# What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
