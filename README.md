@@ -61,7 +61,7 @@ Adding descriptive statistics to the “Outcomes Based on Goal” section will h
 
 ![Sucessful_descriptive](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/Sucessful_descriptive.png?raw=true)
 
-The standard deviation is larger than the mean, which tells us that there are outliers in the data. This also tells as that all the pledges below the mean are close to the median. The fact that the standard deviation sits above the Upper Quartile tells us that there are outliers driving the pledges up. This confirms the theory that the high percentage of Goals met withing the $35,000 to $44,999 were likely the result of generous offers or outliers. 
+The standard deviation is larger than the mean, which tells us that there are outliers in the data. This also tells as that all the pledges below the mean are close to the median. Meaning that most pledges where within the $2,500 to $45,000 range. The fact that the standard deviation sits above the Upper Quartile tells us that there are outliers driving the pledges up. This confirms the theory that the high percentage of Goals met withing the $35,000 to $44,999 were likely the result of generous offers or outliers. 
 
 The Box and whiskers chart helps us visualize the descriptive statistics. As seen in the cart there are several outliers that sit above the upper quartile range. This helps us visually verify that out outliers are driving up the success rate of the successful campaigns within the goals ranges of $35,000 to $39,999 and $40,000 to $44,999.
 
