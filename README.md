@@ -18,10 +18,13 @@ To properly analyze the outcomes based on launch data we created a pivot chart. 
 
 The outcomes based on goals was analyzed by counting and summing the number of successful, failed, and canceled plays based on the goal range they fall under. We used play as the category as we wanted to compare Louise’s play fever to the other plays in the dataset. After gathering the total counts, we determined the percentage of successful, failed, and canceled plays based on the same goal ranges. Once all the data was gathered, we used a line chart as it will allow us to easily visualize the increase and decrease of successful, failed, and canceled percentage rates per their goal range.
 
+![Outcomes_vs_Goals](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/Outcomes_vs_Goals.png?raw=true)
+
 ### Challenges and Difficulties Encountered
 
 A challenge that was encountered during the outcomes by launch date was the percentages of success, failed, and canceled campaigns. The current data allows us to see the totals, however, we are working with incomplete data as total amount of successful campaigns does not mean a certain month was more successful than the other. To assist with the analysis, I added columns representing the percentage of successful, failed, and canceled campaigns. For example. August contains a higher total of successful campaigns compared to October; however, October has a higher success percentage, making it a favorable month to launch a campaign.  
 
+![Outcomes_vs_Goals](https://github.com/JoseEspinosaTello/kickstarter-analysis/blob/main/Recources/Outcomes_vs_Goals.png?raw=true)
 
 ## Results
 
