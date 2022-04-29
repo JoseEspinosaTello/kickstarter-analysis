@@ -12,6 +12,8 @@ Our client Louise has recently completed the fundraising campaign for her play �
 
 To properly analyze the outcomes based on launch data we created a pivot chart. This pivot chart filters the data by category, which is set to theater as Louise’s play falls under the theater category and it is important that we analyze a relevant category. The chart displays the total count of successful, failed, and canceled fundraising campaigns by the months of the total years. To visualize the data, we selected a line graph as it would allow us to easily see and follow the trends of campaigns per month.
 
+https://github.com/JoseEspinosaTello/kickstarter-analysis/tree/main/Recources/Theater_Outcomes_vs_Launch.png
+
 ### Analysis of Outcomes Based on Goals
 
 The outcomes based on goals was analyzed by counting and summing the number of successful, failed, and canceled plays based on the goal range they fall under. We used play as the category as we wanted to compare Louise’s play fever to the other plays in the dataset. After gathering the total counts, we determined the percentage of successful, failed, and canceled plays based on the same goal ranges. Once all the data was gathered, we used a line chart as it will allow us to easily visualize the increase and decrease of successful, failed, and canceled percentage rates per their goal range.
